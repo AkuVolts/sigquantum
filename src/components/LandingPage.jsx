@@ -44,7 +44,7 @@ const LandingPage = () => {
                   overflow: 'hidden',
                 }}
               >
-                <img src="../SigQuantumPoster.png" style={{ width: '100%', height: '100%', objectFit: 'cover' }} alt="SigQuantum Poster" />
+                <img src="../meeting.png" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
               </Paper>
             </Grid>
           </Grid>
